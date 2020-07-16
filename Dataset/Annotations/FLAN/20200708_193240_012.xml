@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset_Final</folder>
+	<filename>20200708_193240_012.jpg</filename>
+	<path>C:\Users\00123\OneDrive\Escritorio\Dataset_Final\20200708_193240_012.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1037</xmin>
+			<ymin>197</ymin>
+			<xmax>4032</xmax>
+			<ymax>2745</ymax>
+		</bndbox>
+	</object>
+</annotation>

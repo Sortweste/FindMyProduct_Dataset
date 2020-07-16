@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pinguino</folder>
+	<filename>IMG_20200708_165217_1_BURST016.jpg</filename>
+	<path>C:\Users\MiguelAviles\Documents\USER\00002816 CICLO 9\APLICACIONES CODIGO ABIERTO\PROYECTO DATASET\Dataset_Final-20200710T235337Z-002\Pinguino\IMG_20200708_165217_1_BURST016.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pinguino</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1843</xmin>
+			<ymin>1</ymin>
+			<xmax>3810</xmax>
+			<ymax>3103</ymax>
+		</bndbox>
+	</object>
+</annotation>

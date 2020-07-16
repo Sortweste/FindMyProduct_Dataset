@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dulces</folder>
+	<filename>IMG_20200708_153918_1_BURST007.jpg</filename>
+	<path>C:\Users\MiguelAviles\Documents\USER\00002816 CICLO 9\APLICACIONES CODIGO ABIERTO\PROYECTO DATASET\Dataset_Final-20200710T235337Z-002\Dulces\IMG_20200708_153918_1_BURST007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dulces</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>257</ymin>
+			<xmax>3770</xmax>
+			<ymax>2970</ymax>
+		</bndbox>
+	</object>
+</annotation>

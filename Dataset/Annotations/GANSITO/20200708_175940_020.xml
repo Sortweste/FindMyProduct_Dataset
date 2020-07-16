@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset_Final</folder>
+	<filename>20200708_175940_020.jpg</filename>
+	<path>C:\Users\00123\OneDrive\Escritorio\Dataset_Final\20200708_175940_020.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gansito</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>1330</ymin>
+			<xmax>3732</xmax>
+			<ymax>2992</ymax>
+		</bndbox>
+	</object>
+</annotation>

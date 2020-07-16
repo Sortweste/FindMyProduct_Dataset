@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset_Final</folder>
+	<filename>IMG_20200708_162614_BURST013.jpg</filename>
+	<path>C:\Users\00123\OneDrive\Escritorio\Dataset_Final\IMG_20200708_162614_BURST013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dalmata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>698</ymin>
+			<xmax>3131</xmax>
+			<ymax>2141</ymax>
+		</bndbox>
+	</object>
+</annotation>

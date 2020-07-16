@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mani</folder>
+	<filename>IMG_20200708_145829_BURST014.jpg</filename>
+	<path>C:\Users\MiguelAviles\Documents\USER\00002816 CICLO 9\APLICACIONES CODIGO ABIERTO\PROYECTO DATASET\Dataset_Final-20200710T235337Z-002\Mani\IMG_20200708_145829_BURST014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mani</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>902</ymin>
+			<xmax>2980</xmax>
+			<ymax>2241</ymax>
+		</bndbox>
+	</object>
+</annotation>

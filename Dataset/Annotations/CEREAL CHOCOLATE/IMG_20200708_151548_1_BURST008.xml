@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset_Final</folder>
+	<filename>IMG_20200708_151548_1_BURST008.jpg</filename>
+	<path>C:\Users\00123\OneDrive\Escritorio\Dataset_Final\IMG_20200708_151548_1_BURST008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cereal chocolate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1220</xmin>
+			<ymin>277</ymin>
+			<xmax>3478</xmax>
+			<ymax>2703</ymax>
+		</bndbox>
+	</object>
+</annotation>

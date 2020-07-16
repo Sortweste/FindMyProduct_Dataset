@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset_Final</folder>
+	<filename>20200708_185703_005.jpg</filename>
+	<path>C:\Users\00123\OneDrive\Escritorio\Dataset_Final\20200708_185703_005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mazola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>5</ymin>
+			<xmax>3242</xmax>
+			<ymax>2852</ymax>
+		</bndbox>
+	</object>
+</annotation>

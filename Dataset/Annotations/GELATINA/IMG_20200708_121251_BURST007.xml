@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gelatina</folder>
+	<filename>IMG_20200708_121251_BURST007.jpg</filename>
+	<path>C:\Users\MiguelAviles\Documents\USER\00002816 CICLO 9\APLICACIONES CODIGO ABIERTO\PROYECTO DATASET\Dataset_Final-20200710T235337Z-002\Gelatina\IMG_20200708_121251_BURST007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gelatina</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>911</ymin>
+			<xmax>3094</xmax>
+			<ymax>2512</ymax>
+		</bndbox>
+	</object>
+</annotation>
